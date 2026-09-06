@@ -1,6 +1,6 @@
 import React from 'react';
 import { Check, ShieldCheck, HeartHandshake, Award, Phone } from 'lucide-react';
-import daveMorganPhoto from '../assets/images/dave_morgan_1788707726146.jpg';
+import daveMorganPhoto from '../assets/images/dave_morgan_1788707726146-DKM7XNmL.jpg';
 
 interface AboutSectionProps {
   onOpenQuote: () => void;
