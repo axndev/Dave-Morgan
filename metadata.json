@@ -1,0 +1,6 @@
+{
+  "name": "Dave Morgan Plumbing & Electrical",
+  "description": "Professional plumbing and electrical services for residential and commercial customers. Reliable local service owned and operated by Dave Morgan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
